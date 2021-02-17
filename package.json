@@ -1,8 +1,8 @@
 {
-  "name": "@shopify/restyle",
+  "name": "@curefit/restyle",
   "version": "1.4.0",
   "license": "MIT",
-  "description": "A system for building constraint-based UI components",
+  "description": "A system for building constraint-based UI components (forked from @shopify/restyle for exporting theme context)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "sideEffects": false,
@@ -18,14 +18,10 @@
       "pre-commit": "yarn lint"
     }
   },
-  "publishConfig": {
-    "access": "public",
-    "@shopify:registry": "https://registry.npmjs.org"
-  },
-  "author": "Shopify Inc.",
+  "author": "mohsinulhaq",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shopify/restyle.git"
+    "url": "git+https://github.com/curefit/restyle.git"
   },
   "dependencies": {},
   "devDependencies": {

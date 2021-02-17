@@ -1,4 +1,4 @@
-# `@shopify/restyle`
+# `@curefit/restyle` (forked from @shopify/restyle for exporting theme context [#80](https://github.com/Shopify/restyle/pull/80/files))
 
 ![RestyleTheme 2020-02-25 17_43_51](https://user-images.githubusercontent.com/688415/75268245-91084b80-57f7-11ea-905b-2a9046aa5ca3.gif)
 
